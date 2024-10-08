@@ -13,6 +13,6 @@ PumaSol es un ciclo de conferencias dirigido a estudiantes y público en general
 Av. Universidad 3000, Copilco Universidad, Coyoacán, 04510 Ciudad de México, CDMX
 Aditorio --------
 ## Registro 
-
+[Link del registro](https://lidsol.unam.mx/nextcloud/apps/forms/s/5Mwy9Ea7jS52yC4eLKeYFs5y)
 ## Codigo de conducta
 [Link al repositorio del codigo de Conducta de LIDSoL](https://github.com/LIDSOL/CodeOfConduct)
